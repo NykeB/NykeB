@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NykeB | Songwriter, autore e compositore</title>
+  <meta name="description" content="Sito ufficiale di NykeB: biografia, catalogo canzoni, payoff creativi, video YouTube e link social." />
+  <meta name="keywords" content="songwriter, autore, compositore, canzoni, catalogo musicale, testi, musica italiana" />
+  <meta name="author" content="NykeB" />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:title" content="NykeB | Songwriter" />
+  <meta property="og:description" content="Catalogo canzoni, payoff, video YouTube e biografia ufficiale." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="assets/og-image.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="canonical" href="https://tuo-utente.github.io/songwriter-site/" />
+  <link rel="icon" href="assets/logo.svg" />
+  <link rel="stylesheet" href="styles.css" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicGroup",
+    "name": "NykeB",
+    "description": "Songwriter, autore e compositore.",
+    "url": "https://tuo-utente.github.io/songwriter-site/",
+    "sameAs": [
+      "https://www.youtube.com/",
+      "https://www.instagram.com/",
+      "https://www.facebook.com/",
+      "https://open.spotify.com/"
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#hero" aria-label="Torna alla home">
+      <img src="assets/logo.svg" alt="Logo Nome Artista" class="logo" />
+      <span>NikeB</span>
+    </a>
+    <nav aria-label="Navigazione principale">
+      <a href="#catalogo">Catalogo</a>
+      <a href="#social">Social</a>
+      <a href="#contatti">Contatti</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="hero" class="hero">
+      <div class="hero-content">
+        <img src="assets/logo.svg" alt="Logo artista" class="hero-logo" />
+        <p class="eyebrow">SONGWRITER</p>
+        <h1>NykeB</h1>
+        <p class="bio">Scrivo di ciò che mi sta a cuore: persone, storie ed emozioni vere. Questo spazio raccoglie il mio catalogo, i temi dei brani e i payoff creativi.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#catalogo">Scopri il catalogo</a>
+          <a class="button secondary" href="#contatti">Collaboriamo</a>
+        </div>
+      </div>
+      <div class="hero-card photo-card" aria-label="Foto artista">
+        <img src="assets/artist-photo.svg" alt="Foto Nome Artista" class="artist-photo" />
+      </div>
+    </section>
+
+    <section class="seo-section" aria-labelledby="seo-title">
+      <h2 id="seo-title">Musica originale, testi e concept</h2>
+      <p>Le parole nascono dall'anima, le melodie prendono forma con la tecnologia.</p>
+    </section>
+
+    <section id="catalogo" class="catalog-section">
+      <div class="section-heading">
+        <p class="eyebrow">Catalogo</p>
+        <h2>Canzoni</h2>
+        <p>10 brani per pagina, copertina a sinistra, descrizione, genere, payoff e player YouTube.</p>
+      </div>
+
+      <div class="catalog-tools" aria-label="Filtri catalogo">
+        <label>
+          Cerca nel catalogo
+          <input id="searchInput" type="search" placeholder="Titolo, commento, genere o payoff..." autocomplete="off" />
+        </label>
+
+        <label>
+          Genere
+          <select id="genreFilter">
+            <option value="">Tutti i generi</option>
+          </select>
+        </label>
+
+        <label>
+          Anno
+          <select id="yearFilter">
+            <option value="">Tutti gli anni</option>
+          </select>
+        </label>
+
+        <button id="resetFilters" class="page-btn" type="button">Reset filtri</button>
+      </div>
+
+      <p id="catalogCount" class="catalog-count"></p>
+      <div id="songs" class="songs-grid" aria-live="polite"></div>
+      <div class="pagination" id="pagination" aria-label="Paginazione catalogo"></div>
+    </section>
+
+    <section id="social" class="social-section">
+      <div class="section-heading">
+        <p class="eyebrow">Social</p>
+        <h2>Seguimi online</h2>
+      </div>
+      <div class="social-links">
+        <a href="https://www.youtube.com/" target="_blank" rel="noopener">YouTube</a>
+        <a href="https://www.instagram.com/" target="_blank" rel="noopener">Instagram</a>
+        <a href="https://www.tiktok.com/" target="_blank" rel="noopener">TikTok</a>
+        <a href="https://open.spotify.com/" target="_blank" rel="noopener">Spotify</a>
+        <a href="https://www.facebook.com/" target="_blank" rel="noopener">Facebook</a>
+      </div>
+    </section>
+
+    <section id="contatti" class="contact-section">
+      <h2>Contatti</h2>
+      <p>Per collaborazioni, pitch editoriali o richieste demo:</p>
+      <a class="button primary" href="mailto:email@dominio.it">email@dominio.it</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>© <span id="year"></span> NykeB. Tutti i diritti riservati.</p>
+  </footer>
+
+  <script src="songs.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
