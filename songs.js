@@ -171,7 +171,7 @@ const songs = [
 	"Dire ‘ti amo’ oggi sembra difficile quanto sentirlo davvero.",
 	"Spegni il telefono. Riaccendi le emozioni."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=LbCPBfWTPLY&list=RDLbCPBfWTPLY&start_radio=1"
   },
   {
     title: "STORIES IN THE SKY",
@@ -191,7 +191,7 @@ const songs = [
 	"We arrive in new cities… but carry pieces of each other home.",
 	"In the sky, strangers become mirrors of our own journey."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=ISdikwGM8gk&list=RDISdikwGM8gk&start_radio=1"
   },
   {
     title: "TRA LE NUVOLE",
@@ -211,7 +211,7 @@ const songs = [
 	"Ogni volto incontrato tra le nuvole lascia una traccia dentro di noi.",
 	"Viaggiare non significa solo partire… ma imparare ad ascoltare le storie degli altri."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=DF8EPLLviKM&list=RDDF8EPLLviKM&start_radio=1"
   },
   {
     title: "THE FARINOLIO WAY",
