@@ -231,7 +231,7 @@ const songs = [
 	"One bite and you instantly feel at home.",
 	"Farinolio: where every day tastes like an Italian holiday."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=b7VNZ9-wr-M&list=RDb7VNZ9-wr-M&start_radio=1"
   },
   {
     title: "SOTTO LO STESSO CIELO",
