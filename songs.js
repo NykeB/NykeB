@@ -252,7 +252,7 @@ const songs = [
 	"Sotto lo stesso cielo nessuno è straniero.",
 	"L’amore parla tutte le lingue."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=I_P9VFlZan0&list=RDI_P9VFlZan0&start_radio=1"
 },
   {
     title: "UN BANCO PER SOGNARE",
@@ -272,7 +272,7 @@ const songs = [
 	"Studiare è dare voce ai sogni.",
 	"Il sapere rende tutti più uguali."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=XAQmjsYVUNw&list=RDXAQmjsYVUNw&start_radio=1"
 },
   {
     title: "LIBERTA' DI DIRE",
@@ -292,7 +292,7 @@ const songs = [
 	"La libertà non si compra: si conquista ogni giorno.",
 	"Difendere la verità significa difendere noi stessi.",
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=f5GJ4IuTQl0&list=RDf5GJ4IuTQl0&start_radio=1"
 },
   {
     title: "ACQUA PER TUTTI",
@@ -312,7 +312,7 @@ const songs = [
 	"Non sprecare ciò che per qualcuno è sopravvivenza.",
 	"Siamo tutti uguali davanti alla sete."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=4zpQd0jq0aI&list=RD4zpQd0jq0aI&start_radio=1"
 },
   {
     title: "STANZE VUOTE",
@@ -332,7 +332,7 @@ const songs = [
 	"Ci si salva insieme, mai da soli.",
 	"Quando due cuori si incontrano, il silenzio smette di fare paura."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=pjUu48mQTPA&list=RDpjUu48mQTPA&start_radio=1"
 },
   {
     title: "SCROLLANDO VIA LA VITA",
@@ -372,7 +372,7 @@ const songs = [
 	"Meglio un errore vissuto che un sogno mai provato.",
 	"La vita premia chi osa credere in sé stesso."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=80EmxPmBFb0&list=RD80EmxPmBFb0&start_radio=1"
 },
   {
     title: "RUBANO L’INNOCENZA",
@@ -392,7 +392,7 @@ const songs = [
 	"Ascoltare una voce ferita può cambiare una vita.",
 	"Ogni bambino merita solo sogni, libertà e dignità."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=NXlrY3DZ1sM&list=RDNXlrY3DZ1sM&start_radio=1"
 },
   {
     title: "POLVERE VELOCE",
@@ -452,7 +452,7 @@ const songs = [
 	"Il coraggio di parlare può cambiare un destino.",
 	"Mai più paura, mai più silenzio."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=lpgQ4Hl6mJU&list=RDlpgQ4Hl6mJU&start_radio=1"
 },
   {
     title: "FAKE OR REAL",
@@ -492,7 +492,7 @@ const songs = [
 	"Too many stories, one search for truth.",
 	"When truth is hard to find, music keeps us alive."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=kiwO2HcF1Mc&list=RDkiwO2HcF1Mc&start_radio=1"
 },
   {
     title: "NOTTI SENZA FRENI",
@@ -512,7 +512,7 @@ const songs = [
 	"La libertà non è perdere sé stessi.",
 	"Vivi la notte, ma non perdere il domani."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=3PIlt7CsBdE&list=RD3PIlt7CsBdE&start_radio=1"
 },
   {
     title: "DENTRO IL SOLE",
@@ -532,7 +532,7 @@ const songs = [
 	"Dentro il sole: dove il desiderio incontra l’anima.",
 	"Più forte della notte, più vivo che mai."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=1tIl5Aypqwg&list=RD1tIl5Aypqwg&start_radio=1"
 },
   {
     title: "APRILE SA DI TE",
@@ -552,7 +552,7 @@ const songs = [
 	"Quando un ricordo diventa musica.",
 	"Aprile sei tu, per sempre dentro me."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=IEgisN1TXjI&list=RDIEgisN1TXjI&start_radio=1"
 
   }
 ];
