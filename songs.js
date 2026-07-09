@@ -352,7 +352,7 @@ const songs = [
 	"Un follower non sostituirà mai una presenza vera.",
 	"Alza gli occhi: la vita ti sta aspettando."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=E0TD_HMa6Ho&list=RDE0TD_HMa6Ho&start_radio=1"
 },
   {
     title: "CINQUANTAPERCENTO",
@@ -412,7 +412,7 @@ const songs = [
 	"Non lasciare che una notte distrugga il tuo domani.",
 	"Vale di più un futuro vero che uno sballo momentaneo."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=3Ue9zIZyr3I&list=RD3Ue9zIZyr3I&start_radio=1"
 },
   {
     title: "UNO SGUARDO DI TROPPO",
@@ -432,7 +432,7 @@ const songs = [
 	"La forza vera è saper fermare la rabbia.",
 	"Nati per vivere, non per sparare."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=2U3mQHO2KWI&list=RD2U3mQHO2KWI&start_radio=1"
 },
   {
     title: "MAI PIU' SILENZIO",
@@ -553,6 +553,44 @@ const songs = [
 	"Aprile sei tu, per sempre dentro me."
     ],
     youtube: "https://www.youtube.com/watch?v=IEgisN1TXjI&list=RDIEgisN1TXjI&start_radio=1"
-
-  }
+},
+  {
+    title: "IL CIELO DI TEO",
+    cover: "assets/covers/028-IlCieloDiTeo.svg",
+    comment: "Quando il cielo diventa un gigantesco puzzle.",
+    genre: "Pop rock",
+    year: 2026,
+    payoffs: [
+	"Ogni scia racconta una storia... almeno per Teo.",
+	"Tra nuvole e sospetti, la fantasia prende quota.",
+	"C'è chi guarda le stelle. Teo guarda le scie.",
+	"Un volo di linea, mille teorie.",
+	"Il mistero è sempre sopra le nostre teste.",
+	"Dove gli altri vedono nuvole, Teo vede indizi.",
+	"La fantasia decolla prima degli aerei.",
+	"Occhi puntati al cielo, convinzioni incrollabili.",
+	"Un investigatore del blu... senza ferie.",
+	"Per Teo, ogni linea nel cielo nasconde un segreto."
+    ],
+    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+},
+  {
+    title: "VOGLIA DI VACANZE",
+    cover: "assets/covers/029-VogliaDiVacanze.svg",
+    comment: "Sole, mare e libertà: il resto può aspettare.",
+    genre: "Pop rock",
+    year: 2026,
+    payoffs: [
+	"L'estate inizia quando parte questa canzone.",
+	"Ogni estate merita la sua colonna sonora.",
+	"La voglia di partire non va mai in vacanza.",
+	"Più volume, meno pensieri.",
+	"Tra tramonti, risate e sogni da vivere.",
+	"Il mare chiama... e noi rispondiamo cantando.",
+	"Le vacanze sono uno stato d'animo.",
+	"Un pieno di sole, musica e felicità.",
+	"Le estati migliori iniziano con un ritornello.",
+	"Accendi la musica e lascia partire l'estate."
+    ],
+    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
 ];
