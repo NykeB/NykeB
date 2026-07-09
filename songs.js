@@ -593,4 +593,5 @@ const songs = [
 	"Accendi la musica e lascia partire l'estate."
     ],
     youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+}
 ];
