@@ -138,7 +138,7 @@ const songs = [
 	"Sotto le luci dei social, non perdere la realtà.",
 	"Balliamo tra illusioni, cercando qualcosa di vero."
     ],
-    youtube: "https://www.youtube.com/channel/UCSSirPs9uyMDEBYx-gUSScw"
+    youtube: "https://www.youtube.com/watch?v=1nxO5K2hYEI&list=RD1nxO5K2hYEI&start_radio=1"
 },
   {
     title: "MAI PIU' SILENZIO",
